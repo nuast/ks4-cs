@@ -32,7 +32,7 @@ gcse/
 ├── _template/
 │   └── topic-template.md                 ← reusable template for every topic file
 │
-├── component-j277-01-computer-systems/
+├── computer-systems/
 │   ├── README.md                          ← component overview
 │   ├── 1.1-systems-architecture.md
 │   ├── 1.2-memory-and-storage.md
@@ -41,7 +41,7 @@ gcse/
 │   ├── 1.5-systems-software.md
 │   └── 1.6-ethical-legal-cultural-environmental-impacts.md
 │
-└── component-j277-02-computational-thinking-algorithms-and-programming/
+└── algorithms-programming/
     ├── README.md                          ← component overview
     ├── 2.1-algorithms.md
     ├── 2.2-programming-fundamentals.md
@@ -60,12 +60,12 @@ Includes multiple-choice, short-response, and extended-response questions.
 
 | # | Topic |
 |---|-------|
-| 1.1 | [Systems architecture](component-j277-01-computer-systems/1.1-systems-architecture.md) |
-| 1.2 | [Memory and storage](component-j277-01-computer-systems/1.2-memory-and-storage.md) |
-| 1.3 | [Computer networks, connections and protocols](component-j277-01-computer-systems/1.3-computer-networks-connections-and-protocols.md) |
-| 1.4 | [Network security](component-j277-01-computer-systems/1.4-network-security.md) |
-| 1.5 | [Systems software](component-j277-01-computer-systems/1.5-systems-software.md) |
-| 1.6 | [Ethical, legal, cultural and environmental impacts](component-j277-01-computer-systems/1.6-ethical-legal-cultural-environmental-impacts.md) |
+| 1.1 | [Systems architecture](computer-systems/1.1-systems-architecture.md) |
+| 1.2 | [Memory and storage](computer-systems/1.2-memory-and-storage.md) |
+| 1.3 | [Computer networks, connections and protocols](computer-systems/1.3-computer-networks-connections-and-protocols.md) |
+| 1.4 | [Network security](computer-systems/1.4-network-security.md) |
+| 1.5 | [Systems software](computer-systems/1.5-systems-software.md) |
+| 1.6 | [Ethical, legal, cultural and environmental impacts](computer-systems/1.6-ethical-legal-cultural-environmental-impacts.md) |
 
 ### J277/02 – Computational Thinking, Algorithms and Programming
 Written exam · 1 hour 30 minutes · 50% of GCSE  
@@ -73,11 +73,11 @@ Includes computational thinking, algorithm questions, programming tasks, and tra
 
 | # | Topic |
 |---|-------|
-| 2.1 | [Algorithms](component-j277-02-computational-thinking-algorithms-and-programming/2.1-algorithms.md) |
-| 2.2 | [Programming fundamentals](component-j277-02-computational-thinking-algorithms-and-programming/2.2-programming-fundamentals.md) |
-| 2.3 | [Producing robust programs](component-j277-02-computational-thinking-algorithms-and-programming/2.3-producing-robust-programs.md) |
-| 2.4 | [Boolean logic](component-j277-02-computational-thinking-algorithms-and-programming/2.4-boolean-logic.md) |
-| 2.5 | [Programming languages and IDEs](component-j277-02-computational-thinking-algorithms-and-programming/2.5-programming-languages-and-IDEs.md) |
+| 2.1 | [Algorithms](algorithms-programming/2.1-algorithms.md) |
+| 2.2 | [Programming fundamentals](algorithms-programming/2.2-programming-fundamentals.md) |
+| 2.3 | [Producing robust programs](algorithms-programming/2.3-producing-robust-programs.md) |
+| 2.4 | [Boolean logic](algorithms-programming/2.4-boolean-logic.md) |
+| 2.5 | [Programming languages and IDEs](algorithms-programming/2.5-programming-languages-and-IDEs.md) |
 
 ---
 

@@ -70,4 +70,4 @@ endfunction
 
 ---
 
-*[← Back to contents](../CONTENTS.md) | [← J277/01](../component-j277-01-computer-systems/README.md)*
+*[← Back to contents](../CONTENTS.md) | [← J277/01](../computer-systems/README.md)*
