@@ -28,4 +28,4 @@
 
 ---
 
-*[← Back to contents](../CONTENTS.md) | [→ J277/02](../component-j277-02-computational-thinking-algorithms-and-programming/README.md)*
+*[← Back to contents](../CONTENTS.md) | [→ J277/02](../algorithms-programming/README.md)*
